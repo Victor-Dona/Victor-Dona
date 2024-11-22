@@ -1,4 +1,4 @@
-<h2 align="left">Greetings, fellow living entity,<br> My name is Victor Dona and I'm a Data Analyst from Panama looking forward to transition into an intelligence roll in which I can further develop my data science and data engineering skills. </h2>
+<h2 align="left">Greetings, fellow living entity,<br> My name is Victor Dona and I'm a Data Engineer based in Panama City, looking forward to learn & build fun stuff! 🚀 </h2>
 <br> </h2>
 
 <div align="center">
